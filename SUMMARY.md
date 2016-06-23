@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* Introduction
 * 控件库的设计
     * [设计目的](design/destination.md)
     * [设计原则](design/tenet.md)
@@ -14,4 +13,3 @@
 * [私有接口](interface/README.md)
     * [分页](interface/pagination.md)
     * [时间轴](interface/timeline.md)
-
