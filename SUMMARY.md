@@ -10,6 +10,9 @@
 * [私有参数](params/README.md)
     * [分页](params/pagination.md)
     * [时间轴](params/timelime.md)
+    * [地图](params/map.md)
 * [私有接口](interface/README.md)
     * [分页](interface/pagination.md)
     * [时间轴](interface/timeline.md)
+    * [地图](interface/map.md)
+
